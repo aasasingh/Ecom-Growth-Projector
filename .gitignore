@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+ad_spend.csv
+orders.csv
+projection.csv
+projection_*.csv
+.streamlit/
+.claude/
+*.log
+.env
